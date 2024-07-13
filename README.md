@@ -69,3 +69,4 @@ hey
 Husky
 Husky commit msg
 Husky commit msg
+Ensuring that Husky commit msg is working
